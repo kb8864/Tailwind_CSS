@@ -48,3 +48,8 @@
 //   return num % 2 == 1; //奇数のみの配列を作る場合
 // });
 // console.log(nameary2);
+
+//三項演算子
+// (条件式)?真値のときに返す値:偽値のときに返す値;
+// const val = 1 > 2 ? 'trueです' : 'falseです';
+// console.log(val);
